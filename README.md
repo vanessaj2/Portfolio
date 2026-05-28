@@ -1,13 +1,7 @@
 # Portfolio
 AP CSP Python Code
-This is my portfolio consisting of projects I've created in my AP Computer Science Principles class.
-
-Here is a clean, organized README description for your AP CSP projects, following your requested format exactly.
-
+This is my portfolio consisting of projects I've created in my AP Computer Science Principles class. These projects range from interactive simulations to interactive, productivity tools useful for everyday life.
 ---
-
-## README: AP Computer Science Principles Portfolio
-
 ### Project 1: Hogwarts House Personality Generator
 
 * **Project Title:** Hogwarts House Personality Generator
