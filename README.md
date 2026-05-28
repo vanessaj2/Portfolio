@@ -1,5 +1,4 @@
 # Portfolio
-AP CSP Python Code
 This is my portfolio consisting of projects I've created in my AP Computer Science Principles class. These projects range from interactive simulations to interactive, productivity tools useful for everyday life.
 ---
 ### Project 1: Hogwarts House Personality Generator
